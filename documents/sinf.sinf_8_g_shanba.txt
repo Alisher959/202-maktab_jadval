@@ -1,0 +1,6 @@
+1.Adabiyot  08:00	08:45
+2.Informatika  08:50	09:35
+3.O`zbekiston tarixi  09:40	10:25
+4.Rus tili  10:40	11:25
+5.Ingliz tili  11:30	12:15
+6.Algebra  12:20	13:05

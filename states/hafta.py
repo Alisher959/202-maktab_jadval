@@ -1,0 +1,21 @@
+from aiogram.dispatcher.filters.state import StatesGroup, State
+
+class hafta(StatesGroup):
+    sinf_1_a_du = State()
+    sinf_1_a_se = State()
+    sinf_1_a_chor = State()
+    sinf_1_a_pay = State()
+    sinf_1_a_juma = State()
+    sinf_1_a_shanba = State()
+    sinf_1_b_du = State()
+    sinf_1_b_se = State()
+    sinf_1_b_chor = State()
+    sinf_1_b_pay = State()
+    sinf_1_b_juma = State()
+    sinf_1_b_shanba = State()
+    sinf_1_v_du = State()
+    sinf_1_v_se = State()
+    sinf_1_v_chor = State()
+    sinf_1_v_pay = State()
+    sinf_1_v_juma = State()
+    sinf_1_v_shanba = State()

@@ -1,0 +1,7 @@
+1.Adabiyoti  08:00	08:45
+2.Geometriya  08:50	09:35
+3.Rus tili  09:40	10:25
+4.Geografiya  10:40	11:25
+5.Algebra  11:30	12:15
+6.Jismoniy  12:20	13:05
+7.Iqtisod  13:10	13:55

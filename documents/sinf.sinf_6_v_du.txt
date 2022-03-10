@@ -1,0 +1,5 @@
+1.Fizika  08:00	08:45
+2.Jismoniy 08:50	09:35
+3.Geografiya  09:40	10:25
+4.Tarbiya  10:40	11:25
+5.Rus tili  11:30	12:15

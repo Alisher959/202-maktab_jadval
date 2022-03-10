@@ -1,0 +1,6 @@
+1.Biologiya  08:00	08:45
+2.Tarix 08:50	09:35
+3.Rasm  09:40	10:25
+4.Rus tili  10:40	11:25
+5.Matematika  11:30	12:15
+6.Informatika  12:20	13:05

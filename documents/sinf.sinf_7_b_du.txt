@@ -1,0 +1,6 @@
+1.Ona tili  08:00	08:45
+2.Ingliz tili  08:50	09:35
+3.Rus tili  09:40	10:25
+4.Adabiyot  10:40	11:25
+5.Musiqa  11:30	12:15
+6.Biologiya  12:20	13:05

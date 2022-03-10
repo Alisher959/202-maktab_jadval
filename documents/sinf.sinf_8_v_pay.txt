@@ -1,0 +1,6 @@
+1.Geografiya  08:00	08:45
+2.Ingliz tili  08:50	09:35
+3.Algebra  09:40	10:25
+4.Fizika  10:40	11:25
+5.Geometriya  11:30	12:15
+6.Adabiyot  12:20	13:05

@@ -1,0 +1,6 @@
+1.Fizika  08:00	08:45
+2.Geogafiya  08:50	09:35
+3.Adabiyot  09:40	10:25
+4.Algebra  10:40	11:25
+5.Chizmachilik  11:30	12:15
+6.Iqtisod  12:20	13:05

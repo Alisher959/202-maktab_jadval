@@ -1,0 +1,5 @@
+1.Musiqa  08:00	08:45
+2.Tarbiya  08:50	09:35
+3.Matematia  09:40	10:25
+4.Jismoniy  10:40	11:25
+5.Rasm  11:30	12:15

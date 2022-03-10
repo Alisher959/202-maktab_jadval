@@ -1,0 +1,5 @@
+1.Ingliz tili  08:00	08:45
+2.Kimyo  08:50	09:35
+3.Fizika  09:40	10:25
+4.Jahon tarixi  10:40	11:25
+5.Informatika  11:30	12:15

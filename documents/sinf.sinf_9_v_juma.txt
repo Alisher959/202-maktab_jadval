@@ -1,0 +1,7 @@
+1.Sinf soati  08:00	08:45
+2.Kimyo  08:50	09:35
+3.Geografiya  09:40	10:25
+4.Biologiya  10:40	11:25
+5.Algebra  11:30	12:15
+6.Jahon tarixi  12:20	13:05
+7.Informatika  13:10	13:55
